@@ -1,0 +1,32 @@
+body{
+   background-color: lightblue;
+}
+
+#ES{
+    font-family: 'Bangers', cursive;
+    color: cornsilk;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 0%;
+    background-color: black;
+}
+#ES:hover{
+    background-color: grey;
+    
+}
+.textos{
+    font-size: 40px;
+    color: yellow;
+    background-color: black;
+}
+.textoes{
+    border: solid;
+    color: lawngreen;
+    background-color: dimgrey;
+   box-align: center;
+}
+.textoes:hover{
+    border: solid;
+    color: red;
+    cursor: zoom-out;
+}

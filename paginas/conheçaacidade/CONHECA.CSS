@@ -1,0 +1,31 @@
+body{background-color: cadetblue;
+}
+.TITULO{
+    font-size: 70px;
+    color: lightgreen;
+    text-align: center;
+    margin-top: 1px;
+   background-color: black;
+}
+.fotos{
+  font-size: 40px;
+}
+.imgi{
+    border: solid;
+    color: darkslateblue;
+}
+.imgi:hover{
+    border-radius: 10%;
+    color: lightseagreen;
+}
+.youtub{
+    border: solid;
+    color: lawngreen;
+    background-color: dimgrey;
+   box-align: center;
+}
+.youtub:hover{
+    border: solid;
+    color: red;
+    cursor: zoom-out;
+}

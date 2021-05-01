@@ -1,0 +1,38 @@
+body{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+
+    
+}
+.mg{
+    border: aqua;
+    border-style: solid;
+   
+}
+.mg:hover{
+zoom: 110%;
+border: magenta;
+}
+.u{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60px;
+    color: crimson;
+   background-color: green;
+   margin-top: 0%;
+}
+
+.u:hover{
+    background-color: grey;
+    zoom: 120%;
+}
+.texto{
+    color: teal;
+    font-size: 20px;
+    
+}
+
+.texto:hover{
+background-color: saddlebrown;
+cursor: -webkit-grab;
+}
